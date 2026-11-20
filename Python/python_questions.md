@@ -1,11 +1,7 @@
 # 100 Core Python Interview Questions in 2026
 
 <div>
-<p align="center">
-<a href="https://devinterview.io/questions/web-and-mobile-development/">
-<img src="https://firebasestorage.googleapis.com/v0/b/dev-stack-app.appspot.com/o/github-blog-img%2Fweb-and-mobile-development-github-img.jpg?alt=media&token=1b5eeecc-c9fb-49f5-9e03-50cf2e309555" alt="web-and-mobile-development" width="100%">
-</a>
-</p>
+100 python Interview Question and Asnwers
 
 <br>
 
